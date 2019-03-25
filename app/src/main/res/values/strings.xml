@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MobileApplication</string>
+    <string name="welcome_to_node_page">Welcome to node page</string>
+</resources>
